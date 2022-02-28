@@ -1,6 +1,6 @@
 <h1 align=center>Roll Dice</h1>
 
-+ Console
+> Console
 ```python
 import random as r
 
@@ -10,7 +10,7 @@ while True:
     print((" ● "*r.randint(1, 6)).center(20))
 ```
 ---
-+ Graphic
+> Graphic
 ```python
 import tkinter as tk, time as t, random as r
 
