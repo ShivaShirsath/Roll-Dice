@@ -9,7 +9,7 @@ while True:
         exit(0)
     print((" ● "*r.randint(1, 6)).center(20))
 ```
-
+---
 + Graphic
 ```python
 import tkinter as tk, time as t, random as r
